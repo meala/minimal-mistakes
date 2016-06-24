@@ -11,7 +11,7 @@ title                    : "Ninja ou Diva"
 title_separator          : "-"
 name                     : &name "Laurence Bodjrenou"
 description              : &description "Vous êtes intéressés par la beauté des femmes noires? tout ce qui entoure l'entretien des cheveux crépus, frisés...? Vous êtes au bon endroit. ;)"
-url                      : https://mistakes.github.io 
+url                      : https://mmistakes.github.io
 baseurl                  : "/ninja-ou-diva" # the subpath of your site, e.g. "/blog"
 gh_repo                  : "https://github.com/mmistakes/minimal-mistakes/blob"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
